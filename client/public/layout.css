@@ -1,0 +1,131 @@
+.container {
+    background-color: black;
+}
+
+#app {
+    background-image: url("Deep Space.jpg");
+    height: 200%;
+}
+    
+label{
+    color: black;
+}
+.row{
+    padding-left: 25%;
+}
+.signupbtn{
+   background-color: #d3d3d3;
+   width: 30%;
+   margin-right: 1em;
+   border-radius: 15px;
+   padding: 10px 20px;
+
+}
+.cancelbtn{
+    background-color: #d3d3d3;
+    width: 30%;
+    border-radius: 15px;
+    padding: 10px 20px;
+
+}
+.loginbtn{
+    background-color: #d3d3d3;
+   width: 30%;
+   margin-right: 1em;
+   border-radius: 15px;
+   padding: 10px 20px;
+}
+/*Navbar Design*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: wheat;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+        
+  }
+  
+  li a:hover {
+    background-color: whitesmoke;
+  }
+  
+  /*Pages Design*/
+  #welcome {
+    color: white;
+  }
+  #updates{
+      color: black;
+  }
+  
+  #hd1, #hd2, #hd3, #hd4 {
+    display: inline-block;
+    width: 25%;
+    padding: 5px;
+  }
+  
+  .banner-image {
+    background-image: url("g.png");
+    height: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  #msg {
+    color: white;
+    font-size: 117%;
+  }
+  #footer{
+      color: white;
+  }
+  
+  #ln1, #ln2, #ln3, #ln4, #ln5 {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+  }
+  
+  #nw1, #nw2, #nw3, #nw4, #nw5 {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+  }
+  
+  button {
+    background-color: #146129; 
+    border: none;
+    color: #eaf2da;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  table {
+    width: 40%;
+  }
+  
+  th, td {
+    color: antiquewhite;
+    font-size: 117%;
+    height: 50px;
+    vertical-align: bottom;
+  }
+  
+  #ply1, #ply2, #ply3, #ply4, #ply5, #ply6 {
+    padding: 10px;
+    width: 20%;
+  }
